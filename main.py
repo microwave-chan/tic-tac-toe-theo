@@ -17,7 +17,7 @@ while gameRunning:
   print(Seperator)
   print(rowThree)
   
-  position = input(currentturn + ", it is your turn)
+  position = input(currentturn + ", it is your turn")
         
   if positioin == "1":
         rowOne[0] = currentturn
