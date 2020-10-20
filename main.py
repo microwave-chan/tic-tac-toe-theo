@@ -17,11 +17,11 @@ while gameRunning:
   print(Seperator)
   print(rowThree)
   
-  input(currentturn + ", it is your turn)
+  position = input(currentturn + ", it is your turn)
         
-  if input == "1":
+  if positioin == "1":
         rowOne[0] = currentturn
-  elif input == #whatever"
+  elif position == #whatever"
         #replace
         
   #continue until you have all the replacing done
